@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AdilMir
 - 👀 I’m interested in iOS App development.
 - 🌱 I’m currently learning Flutter 
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can call on +918825069574 for any ios releated stuff.
 
 <!---
